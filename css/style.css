@@ -36,3 +36,23 @@
 figcaption{
     margin-top: 20px;
 }
+
+.contactus{
+    background-image: url(../assets/backgrounds/c_image.jpg);
+    height: 500px;
+}
+
+.contactoverlay{
+    background-color: rgba(0,0,0,0.5);
+    height: 500px;
+}
+
+.contactus h1 {
+    position: relative;
+    top: 140px;
+    color: white;
+}
+.contactform{
+    background-color: #66000000;
+    color: white;
+}
