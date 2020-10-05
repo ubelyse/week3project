@@ -1,0 +1,11 @@
+.delanipage{
+    background-image: url(../assets/backgrounds/h_img.jpg);
+    background-size: cover;
+    height: 600px;
+}
+
+.delanioverlay{
+    background-color: rgba(0,0,0,0.6);
+    height: 600px;
+    color: white;
+}
