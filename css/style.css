@@ -60,3 +60,11 @@ figcaption{
     position: relative;
     top: 150px;
 }
+.portfolio {
+    /*height: 650px;*/
+    padding-bottom: 50px;
+}
+.portfolioimg{
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+}
