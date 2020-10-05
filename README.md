@@ -3,7 +3,7 @@
 ### Author
 **Belyse Uwambayinema**
 
-![Delani Studio website]()
+![Delani Studio website](delani.png)
 
 **The project is about delani studio that shows all about services offered.**
 
