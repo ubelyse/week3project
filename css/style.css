@@ -76,3 +76,17 @@ figcaption{
 .clickable:hover {
     text-decoration: underline;
 }
+.whatwedo{
+    display: grid;
+}
+
+#walrus-showing1{
+    display: none;
+}
+
+#walrus-showing2{
+    display: none;
+}
+#walrus-showing3{
+    display: none;
+}
