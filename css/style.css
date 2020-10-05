@@ -56,3 +56,7 @@ figcaption{
     background-color: #66000000;
     color: white;
 }
+.contactus form{
+    position: relative;
+    top: 150px;
+}
