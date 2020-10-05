@@ -25,3 +25,8 @@
     top: 30px;
     color: white;
 }
+.serviceoverlay{
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    height: 300px;
+}
